@@ -38,7 +38,7 @@ public class TaiKhoan {
     }
 
     public String hoTen(){
-        return khachhang.tenKhachHang;
+        return khachhang.getTenKhachHang();
     }
 
     public void naptien(){

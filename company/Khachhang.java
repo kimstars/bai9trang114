@@ -1,9 +1,9 @@
 package com.company;
 
 public class Khachhang {
-    public int maKhachHang;
-    public String tenKhachHang;
-    public String diaChi;
+    private int maKhachHang;
+    private String tenKhachHang;
+    private String diaChi;
 
     public Khachhang(int maKhachHang, String tenKhachHang, String diaChi){
         this.maKhachHang = maKhachHang;
